@@ -1,4 +1,4 @@
-Fraud Detection in Python using ML models
+## Fraud Detection in Python using ML models
 
 With increasing technology, there’s always an increased risk of frauds taking place. Credit card payments are the most digitalized part of the finance sector, which makes them particularly vulnerable to fraud. Credit card fraud affects the customers/consumers as well as the companies, and hence anomaly detection process is necessary to ensure information and financial safety. By analyzing the data at hand and gaining insights on how the features are contributing to the fraud patterns, we come up with a machine learning model which best works on detecting fraud.
 The dataset used contains credit card transactions made in September 2013. It contains 492 fraud cases out of total 284,807 transactions. This indicates the data is imbalanced and thus, we need to take special steps to deal with such problem.
